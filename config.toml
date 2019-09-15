@@ -4,7 +4,7 @@
 # The URL of your website.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
 baseurl = "https://gopick.github.io"
-
+#relativeURLs = true
 # Title of your site
 title = "Ricercar"
 
@@ -59,8 +59,8 @@ defaultContentLanguageInSubdir = false
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "cat.jpeg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "gopick@iitk.ac.in"
-  address = "Hall 9, IIT Kanpur"
+  email = "gopi.kotana@gmail.com"
+  address = "Bangalore"
 
   # Enable Keybase in Contact widget by entering your keybase.io username.
   keybase = ""
